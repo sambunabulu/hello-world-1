@@ -2,7 +2,7 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- [sambunabulu](https://github.com/sambunabulu) 
+- [Sambu Nabulu](https://github.com/sambunabulu) 
 
 ## Project setup instructions
 To start using this project use the following commands:
